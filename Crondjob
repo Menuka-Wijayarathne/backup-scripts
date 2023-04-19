@@ -1,0 +1,3 @@
+enter crontab -e and add below command using vi editor
+
+48 13 * * * /home/jsadmin/Automation/venv/bin/python /home/jsadmin/Automation/RPC_EXE/backupconfig.py
