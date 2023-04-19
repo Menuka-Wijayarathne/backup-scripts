@@ -1,3 +1,3 @@
 
-you can use these scripts to generaete schduled backups from juniper Routers with Junos OS.
-here i have used pyez stanard python libaray manily.
+you can use these scripts to generate schduled backups from juniper Routers with Junos OS.
+here i have used pyez standard python libaray manily.
