@@ -15,7 +15,7 @@ def main():
  for key, value in yaml.full_load(open(input_file)).items():
 
     print(value)
-    dev = Device(host=value, user='menuka_08214', passwd='BIGcisco#1991$', port=22)
+    dev = Device(host=value, user='menukaXXXX', passwd='YYYYY', port=22)
     # open a connection with the device and start a NETCONF session
     try:
         dev.open()
